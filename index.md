@@ -1,6 +1,5 @@
 ---
 title: "Welcome to my blog"
 date: 2019-01-20
-
-text test 123
 ---
+text test 123
