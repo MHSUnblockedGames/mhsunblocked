@@ -1,46 +1,25 @@
 <header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+  
+<img src="https://i.ibb.co/XZbscy2q/Banner.png" alt="MHS Unblocked Games Banner..." width = 100% />
+  
+Welcome to MHS Unblocked Game's Github repository. If you ended up here by mistake, you can find our site at __https://mhsunblockedgames.github.io/__ otherwise, you can browse and reuse our assets freely!
 
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+---
 
-## Finish
+# About MHS Unblocked Games
 
-_Congratulations friend, you've completed this course!_
+The team at MHS Unblocked Games is dedicated to unblocking games blocked by Fortinet's [FortiGuard.](https://www.fortiguard.com/webfilter) We are based in [Massey](https://en.wikipedia.org/wiki/Massey,_New_Zealand) and work primarily for [Massey High School,](https://en.wikipedia.org/wiki/Massey_High_School) updating our site accordingly to bypass any new games students request or any games which have received a recent block. In recent times, we have figured that we will have more freedom if we were to port our [old site](https://sites.google.com/view/mhsunblockedgames) to a Github repository, allowing to permanantly unblock games by keeping each game's assets on Github instead of using already prehosted assets, usually at risk of being either taken down or blocked by the web filter. We also now have the ability to hold games that require dependancies that Google does not support.
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-Your blog is now live and has been deployed!
+### Using our games library
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Our games library can freely be reused and embed, some games may have issues surrounding being embed implemented by the games devolopers.
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+### Contact
 
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
+You can send an email to us at __masseyhighunblockedgames@gmail.com__
 <footer>
 
 <!--
@@ -50,8 +29,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Visit our [Github Site!](https://mhsunblockedgames.github.io/) Or our old [Google Site release.](https://sites.google.com/view/mhsunblockedgames)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 MHS Unblocked &bull; Unblocked by Massey High students, For Massey High students.
 
 </footer>
